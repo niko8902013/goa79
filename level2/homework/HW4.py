@@ -1,0 +1,11 @@
+#დაპირნტტეთ თქვენი სახელი 10 ჯერ
+print("nika")
+print("nika")
+print("nika")
+print("nika")
+print("nika")
+print("nika")
+print("nika")
+print("nika")
+print("nika")
+print("nika")

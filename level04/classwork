@@ -1,0 +1,20 @@
+for i in range(45):
+    print("Nikoloz")
+
+
+
+
+
+sequencing
+iteration
+selection
+
+
+
+
+
+
+age = int(input("შეიყვანე შენი ასაკი: "))
+year = int(input("შეიყვანე შენი დაბადების წელი: "))
+
+print(f"მე ვარ {age} წლის და დავიბადე {year} წელში")
